@@ -1,0 +1,15 @@
+.main .items{
+    text-align: center;
+     width:25%;
+     padding:10px;
+     border:3px solid red;
+     margin:1%;
+  }
+  .header::before{
+      background-image: url('photo-1581991717893-55f4b9f62be0.jpg');
+  }
+  li:hover{
+    background-color: white;
+    color:black;
+    font-weight:bold;
+}
